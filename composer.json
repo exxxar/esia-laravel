@@ -13,10 +13,10 @@
     "minimum-stability": "dev",
     "require": {
         "php": "8.*",
-        "fr05t1k/esia": "2.*",
-        "laravel/socialite": "5.*",
-        "guzzlehttp/guzzle": "6.*",
-        "illuminate/support": "7.*",
+        "fr05t1k/esia": "2.*||3.*",
+        "laravel/socialite": "5.*||6.*",
+        "guzzlehttp/guzzle": "6.*||7.*",
+        "illuminate/support": "6.*||7.*||8.*",
         "ext-json": "*"
     },
     "extra": {
