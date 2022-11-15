@@ -6,7 +6,7 @@
 ## Установка
 С использованием Composer:
 ```
-composer require hapxu3/esia-laravel
+composer require exxxar/esia-laravel
 ```
 
 ## Использование
